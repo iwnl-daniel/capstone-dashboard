@@ -1,0 +1,354 @@
+| Error Log | 2023-05-17 | 09:37:29 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-17 | 09:37:29 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-17 | 21:33:41 | Jira_LOG: AxiosError: Request failed with status code 400
+| Error Log | 2023-05-17 | 21:33:41 | Invalid Gitlab URL
+| Error Log | 2023-05-19 | 09:53:40 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 09:53:40 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 09:55:44 | Jira_LOG: AxiosError: Request failed with status code 400
+| Error Log | 2023-05-19 | 09:56:04 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 09:56:04 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 09:57:29 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 09:57:29 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 09:58:55 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 09:58:55 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 09:59:44 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 09:59:44 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:00:29 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 10:00:29 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:00:50 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 10:00:50 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:03:14 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 10:03:14 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:03:15 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:03:15 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:05:08 | Error at projects.createProject: TypeError: Cannot read properties of undefined (reading 'split')
+| Error Log | 2023-05-19 | 10:05:08 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:05:08 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:05:08 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:07:05 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:07:39 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:07:39 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-19 | 10:08:22 | Error at projects.createProject: TypeError: Cannot read properties of undefined (reading 'split')
+| Error Log | 2023-05-19 | 10:08:22 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:09:36 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 10:09:36 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 10:25:03 | Error at projects.createProject: TypeError: userEmailList.split is not a function
+| Error Log | 2023-05-19 | 10:25:03 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'status')
+| Error Log | 2023-05-19 | 19:24:48 | Error at userGetdata: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-vhaw6ra-shard-00-01.9lkorgn.mongodb.net
+| Error Log | 2023-05-19 | 19:25:08 | Error at userGetdata: MongoServerSelectionError: getaddrinfo ENOTFOUND ac-vhaw6ra-shard-00-01.9lkorgn.mongodb.net
+| Error Log | 2023-05-22 | 11:16:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-22 | 11:16:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-22 | 11:16:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:16:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:16:49 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:24:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:24:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:26:35 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:27:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:27:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:27:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:28:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:29:07 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:30:43 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:30:43 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:31:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:31:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:34:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:34:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:35:32 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:35:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:35:39 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:35:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:37:00 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:37:10 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:45:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:45:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:45:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 11:45:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:45:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 11:47:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:47:15 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:47:56 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:47:57 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:48:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:48:54 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:49:56 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 11:49:57 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:47:55 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 18:47:55 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 18:47:55 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 18:47:55 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 18:48:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-22 | 18:48:05 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-22 | 18:48:13 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:48:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:49:48 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:49:49 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:50:37 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 18:50:38 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 19:07:06 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:07:06 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:17:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:17:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:26:28 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:26:28 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:26:31 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:26:32 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:26:45 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 19:26:46 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-22 | 19:32:59 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 19:33:00 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-22 | 19:50:09 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 19:50:09 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 20:09:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-22 | 20:09:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 10:28:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-25 | 10:28:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-25 | 10:56:13 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 10:56:13 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 20:43:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-25 | 20:43:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-25 | 20:59:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:07:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:07:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:07:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:19:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:19:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:29:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:29:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:29:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:29:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:58:57 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:58:57 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:59:00 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 21:59:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 22:48:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 22:48:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 22:48:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:03:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:03:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:10:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:27:31 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:27:31 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-25 | 23:32:51 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:32:52 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:33:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:34:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:34:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:47:10 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-25 | 23:47:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:25:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:25:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:27:27 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:27:28 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:28:19 | Jira_LOG: AxiosError: Request failed with status code 400
+| Error Log | 2023-05-26 | 11:28:29 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'split')
+| Error Log | 2023-05-26 | 11:29:59 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:30:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:30:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:30:22 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:35:10 | Can't update user data: TypeError: Cannot read properties of undefined (reading 'split')
+| Error Log | 2023-05-26 | 11:35:27 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:35:27 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:35:41 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:35:41 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:35:48 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:35:49 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-26 | 11:38:49 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:38:49 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-26 | 11:51:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-26 | 11:51:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-26 | 23:14:34 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-26 | 23:14:34 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-27 | 00:35:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-27 | 10:48:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-27 | 10:48:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-27 | 11:15:46 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:16:17 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:18:09 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:19:21 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:18 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:19 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:19 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:20 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:20 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:21 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:23 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:24 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:24 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:24 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:29 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:30 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:31 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:31:31 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:34:13 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:34:36 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:35:55 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-27 | 11:41:12 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:41:13 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:49:39 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:49:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:05 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:22 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:26 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 11:55:28 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:03:52 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:03:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:05:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:06:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:06:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:06:39 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:06:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:07:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:07:22 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:07:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:07:31 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-27 | 12:07:32 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 11:52:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-28 | 11:52:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-28 | 11:52:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-28 | 14:40:51 | Error at deleteProjectFromUser: TypeError: Cannot read properties of null (reading 'emailList')
+| Error Log | 2023-05-28 | 17:19:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-28 | 17:19:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-28 | 21:15:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-28 | 21:15:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-28 | 21:31:02 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-28 | 21:32:49 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:32:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:34:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:34:17 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:34:24 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:34:25 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:35:12 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:35:13 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:35:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 21:35:24 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:52:59 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:53:00 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:53:35 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:53:36 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:53:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:53:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:57:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-28 | 22:57:04 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:16:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:16:02 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:18:10 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:20:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:20:42 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:20:53 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:20:54 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:26:26 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:26:27 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:26:32 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:26:34 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:27:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:28:15 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-29 | 11:28:15 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 11:28:15 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 11:28:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 11:28:44 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:28:45 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 11:28:48 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 11:28:48 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 11:28:55 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 11:28:55 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 11:29:07 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 11:29:08 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 12:04:12 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 12:04:12 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 12:04:31 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 12:04:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-05-29 | 12:06:54 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:06:55 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:07:14 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:07:15 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:21:08 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:21:09 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:44:49 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:44:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:50:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 12:50:17 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:30:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:30:34 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:30:48 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:30:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:30:56 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:30:56 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:31:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:30 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:31:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 16:31:46 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 16:31:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-29 | 16:31:52 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-29 | 16:31:54 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-29 | 16:31:57 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:31:57 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:32:29 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:32:32 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:32:32 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:32:49 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:34:39 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:34:39 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-05-29 | 16:35:17 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 16:35:18 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:34:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:34:41 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:35:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 19:35:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 19:35:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 19:35:11 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-29 | 19:35:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-29 | 19:35:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-05-29 | 19:35:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:35:25 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:35:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:35:30 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:53:20 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-29 | 19:53:39 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-31 | 20:26:37 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 502
+| Error Log | 2023-05-31 | 20:41:38 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-31 | 20:41:38 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-05-31 | 20:47:02 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-05-31 | 20:47:03 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:30:40 | Jira_LOG: AxiosError: Request failed with status code 400
+| Error Log | 2023-06-01 | 22:31:01 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:31:02 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:17 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-01 | 22:54:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-01 | 22:54:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-01 | 22:54:23 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-01 | 22:54:24 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-01 | 22:54:29 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:30 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:37 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-06-01 | 22:54:38 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 401
+| Error Log | 2023-06-01 | 22:54:44 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-06-01 | 22:54:45 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 503
+| Error Log | 2023-06-01 | 22:54:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 22:54:51 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-01 | 23:04:19 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-02 | 19:21:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-02 | 19:21:50 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-02 | 19:28:51 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-02 | 19:28:52 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-02 | 19:29:21 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-02 | 19:31:16 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-05 | 12:15:29 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-06-05 | 12:15:29 | Error at projectFetchData: TypeError: Cannot read properties of null (reading 'jiraLink')
+| Error Log | 2023-06-05 | 12:16:07 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-05 | 12:16:07 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-06 | 21:57:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-06 | 21:57:47 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 404
+| Error Log | 2023-06-08 | 07:42:39 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-08 | 07:42:40 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-08 | 07:43:33 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403
+| Error Log | 2023-06-08 | 07:43:34 | Error hit sonarGetCodeSmell: AxiosError: Request failed with status code 403

@@ -1,0 +1,32 @@
+table {
+    border-collapse: separate;
+    width: 90%;
+    border: 6px solid #0400b9;
+    border-radius: 13px;
+    /* border-image: linear-gradient(to bottom, #29ccbf, #0400b9) 1; */
+  }
+  
+  th,
+  td {
+    padding: 12px 15px;
+    text-align: center;
+    border: 1px solid #0400b9;
+  }
+  
+  .newProjBtn {
+    border-collapse: separate;
+    width: 90%;
+    text-align: right;
+  }
+  
+  .newProjBtn button {
+    margin: 0 2% 12px 0;
+    padding: 10px 40px;
+    /* width: 100%; */
+    background-color: #0400b9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  
